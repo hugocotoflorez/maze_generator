@@ -16,7 +16,7 @@ python maze_generator_image.py image.jpg
 
 ## Visual example
 
-[!image][./image.jpg]
-[!maze][./maze0.jpg]
-[!solved][./maze_solved0.jpg]
+![image][./image.jpg]
+![maze][./maze0.jpg]
+![solved][./maze_solved0.jpg]
 
