@@ -10,7 +10,7 @@ Create a maze into a image and solve it.
 python maze_generator_image.py image.jpg
 ```
 
-> ![NOTE]
+> [!NOTE]
 > Image have to be an jpg image.
 
 ## dependencies
