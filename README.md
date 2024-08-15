@@ -13,6 +13,10 @@ python maze_generator_image.py image.jpg
 > [!NOTE]
 > Image have to be an jpg image.
 
+> [!NOTE]
+> Each time you call the program it would generate a
+> different maze.
+
 ## dependencies
 
 - Pillow: Can be installed using `pip install pillow`
